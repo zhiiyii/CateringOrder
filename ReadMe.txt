@@ -1,6 +1,4 @@
 Author 		 : Low Zhi Yi
-Student ID 	 : 21WMR02962
-Group 		 : RDS2(S1)G2
 Title 		 : Catering (Meal) Service
 Module-in-Charge : Ordering Module
 
